@@ -1,3 +1,4 @@
+```md
 <h1 align="center">Hey 👋, I'm Gitansh Pise</h1>
 
 <h3 align="center">
@@ -10,7 +11,7 @@ Building intelligent systems, scalable cloud infrastructure, and research-driven
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 - 🧠 Working on AI/ML research projects in:
   - Predictive Maintenance
@@ -35,8 +36,7 @@ Building intelligent systems, scalable cloud infrastructure, and research-driven
 
 ---
 
-```md
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
 
@@ -117,18 +117,16 @@ Building intelligent systems, scalable cloud infrastructure, and research-driven
 </a>
 
 </p>
-```
-
 
 ---
 
-### 📌 Featured Interests
+## 📌 Featured Interests
 
-```txt
-AI Systems
-Machine Learning
-Cloud Computing
-DevOps Engineering
-Research & Publications
-Full Stack Development
-Automation
+- AI Systems
+- Machine Learning
+- Cloud Computing
+- DevOps Engineering
+- Research & Publications
+- Full Stack Development
+- Automation
+```
