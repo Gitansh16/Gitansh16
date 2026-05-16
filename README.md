@@ -45,6 +45,8 @@ LLMs • Agentic AI • MLOps • Distributed Systems
 
 📫 Reach me at: **gitanshpise@gmail.com**
 
+---
+
 ## 🚀 Featured Projects
 
 ### 🔹 AutoSense  
@@ -116,7 +118,7 @@ Accuracy • Precision • Recall • F1-Score • ROC-AUC
 `Python` • `Scikit-Learn` • `XGBoost` • `Pandas` • `NumPy`
 
 🔗 [View Research](https://github.com/Gitansh16)
-
+🔗 [Research Paper](https://link.springer.com/chapter/10.1007/978-981-96-8687-2_27)
 # 🧠 Research Publications
 
 ### 📄 ANITA: Advanced Novel Integration of a Tiered Aggregator for Credit Card Fraud Detection
