@@ -1,40 +1,38 @@
-```md
+
 <h1 align="center">Hey 👋, I'm Gitansh Pise</h1>
 
-<h3 align="center">
-AI Researcher • DevOps Engineer • Full Stack Builder
-</h3>
+<h3 align="center">AI Researcher • DevOps Engineer • Full Stack Builder</h3>
 
 <p align="center">
 Building intelligent systems, scalable cloud infrastructure, and research-driven solutions.
 </p>
 
----
+<br>
 
 ## 🚀 About Me
 
-- 🧠 Working on AI/ML research projects in:
-  - Predictive Maintenance
-  - Medical AI
-  - Credit Card Fraud Detection
-  - Deep Learning Systems
+🧠 Exploring AI/ML through:
+- Predictive Maintenance
+- Medical AI
+- Credit Card Fraud Detection
+- Deep Learning Systems
 
-- ☁️ Passionate about:
-  - Cloud & DevOps
-  - Kubernetes & Docker
-  - CI/CD Automation
-  - System Design
+☁️ Passionate about:
+- Cloud & DevOps
+- Kubernetes & Docker
+- CI/CD Automation
+- System Design
 
-- ⚡ Building projects with:
-  - Python
-  - ServiceNow
-  - AWS
-  - TensorFlow / PyTorch
-  - React & Node.js
+⚡ Building with:
+- Python
+- ServiceNow
+- AWS
+- TensorFlow / PyTorch
+- React & Node.js
 
-- 📚 Researcher by curiosity. Builder by obsession.
+📚 Researcher by curiosity. Builder by obsession.
 
----
+<br>
 
 ## 🛠 Tech Stack
 
@@ -100,25 +98,9 @@ Building intelligent systems, scalable cloud infrastructure, and research-driven
 <img src="https://skillicons.dev/icons?i=jenkins" />
 </a>
 
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=flask" />
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=django" />
-</a>
-
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=cpp" />
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=c" />
-</a>
-
 </p>
 
----
+<br>
 
 ## 📌 Featured Interests
 
@@ -129,4 +111,4 @@ Building intelligent systems, scalable cloud infrastructure, and research-driven
 - Research & Publications
 - Full Stack Development
 - Automation
-```
+
