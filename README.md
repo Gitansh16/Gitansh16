@@ -131,7 +131,7 @@ Published in Springer Book Series (LNNS,volume 1505)
 
 🔗 https://link.springer.com/chapter/10.1007/978-981-96-8687-2_27
 
----
+
 
 ### 📄 Cost-Aware Temporal Deep Learning for Remaining Useful Life Risk Classification in Heavy-Duty Vehicles
 
@@ -146,25 +146,18 @@ To be published in:
 - IEEE DVD ISBN: `979-8-3315-1210-1`
 
 
-This gives terminal/research-engineer vibes.
-
-VERY aesthetic.
-
----
 
 
+## ⚡ Tech Arsenal 
 
-
-## ⚡ Tech Stack
-
-### Languages & Frameworks
+### Languages
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
   &nbsp;&nbsp;
-  
+
   <a href="https://www.java.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
@@ -180,7 +173,7 @@ VERY aesthetic.
   </a>
 </p>
 
----
+
 
 ### AI / ML
 
@@ -193,9 +186,14 @@ VERY aesthetic.
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=pytorch" />
   </a>
+  &nbsp;&nbsp;
+
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=opencv" />
+  </a>
 </p>
 
----
+
 
 ### Cloud & DevOps
 
@@ -223,11 +221,21 @@ VERY aesthetic.
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://skillicons.dev/icons?i=terraform" />
   </a>
+  &nbsp;&nbsp;
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bash" />
+  </a>
 </p>
 
----
 
-### Web & Databases
+
+### Web Development
 
 <p align="left">
   <a href="https://react.dev/" target="_blank">
@@ -240,11 +248,31 @@ VERY aesthetic.
   </a>
   &nbsp;&nbsp;
 
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
+  &nbsp;&nbsp;
+
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=flask" />
   </a>
   &nbsp;&nbsp;
 
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=django" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+</p>
+
+
+
+### Databases & Tools
+
+<p align="left">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
@@ -253,7 +281,19 @@ VERY aesthetic.
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sqlite" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
 </p>
+
+
 # 📈 GitHub Stats
 
 <p align="left">
