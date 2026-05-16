@@ -121,21 +121,29 @@ Accuracy • Precision • Recall • F1-Score • ROC-AUC
 🔗 [Research Paper](https://link.springer.com/chapter/10.1007/978-981-96-8687-2_27)
 # 🧠 Research Publications
 
+
 ### 📄 ANITA: Advanced Novel Integration of a Tiered Aggregator for Credit Card Fraud Detection
-- Accepted at **ITAI 2025**
-- Intelligent ensemble-based fraud detection framework
 
----
+Research focused on intelligent ensemble learning architectures for improving fraud detection performance on highly imbalanced financial datasets.
 
-### 📄 Multi-Model CNN Ensemble with Attention for Pneumonia Identification
-- Deep learning architecture for medical image classification
-- Attention-enhanced CNN ensemble for pneumonia detection
+#### Publication
+Published in Springer Book Series (LNNS,volume 1505)
+
+🔗 https://link.springer.com/chapter/10.1007/978-981-96-8687-2_27
 
 ---
 
 ### 📄 Cost-Aware Temporal Deep Learning for Remaining Useful Life Risk Classification in Heavy-Duty Vehicles
-- Predictive maintenance research
-- Temporal deep learning for industrial RUL prediction
+
+A predictive maintenance research work focused on temporal deep learning architectures for industrial Remaining Useful Life (RUL) risk classification in heavy-duty vehicle engines.
+
+#### Publication
+Accepted at **ICCMC 2026 – IEEE International Conference on Computing Methodologies and Communication**
+
+To be published in:
+- IEEE Xplore Conference Proceedings
+- IEEE Xplore Compliant ISBN: `979-8-3315-1211-8`
+- IEEE DVD ISBN: `979-8-3315-1210-1`
 
 # ⚡ Tech Stack
 
