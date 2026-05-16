@@ -294,14 +294,23 @@ To be published in:
 </p>
 
 
-# 📈 GitHub Stats
+## 📈 GitHub Analytics
 
-<p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gitansh16&show_icons=true&theme=tokyonight" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gitansh16&theme=tokyonight" />
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gitansh16&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://streak-stats.demolab.com?user=Gitansh16&theme=tokyonight&hide_border=true" />
+
 </p>
 
-<p align="left">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitansh16&layout=compact&theme=tokyonight" />
+<p align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gitansh16&theme=tokyo-night&hide_border=true&area=true" />
+
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
