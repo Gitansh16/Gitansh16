@@ -1,12 +1,18 @@
-<h1 align="center">Hey 👋, I'm Gitansh Pise</h1>
+<div align="center">
 
-<h3 align="center">
-AI Researcher • DevOps Engineer • Full Stack Builder
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,40:1f6feb,100:00c6ff&height=260&section=header&text=Gitansh%20Pise&fontSize=58&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=AI%20Researcher%20%7C%20DevOps%20Engineer%20%7C%20Full-Stack%20Builder&descAlignY=60&descSize=18&animation=fadeIn" />
 
-<p align="center">
-Building intelligent systems, scalable cloud infrastructure, and research-driven solutions.
-</p>
+</div>
+
+<div align="center">
+
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Researcher+by+Curiosity;Engineer+by+Obsession;Builder+by+Instinct;AI+%7C+Deep+Learning+%7C+MLOps+%7C+Cloud;Predictive+Maintenance+%7C+Healthcare+AI;LLMs+%7C+Agentic+AI+%7C+Distributed+Systems;Building+Intelligent+Systems+that+Scale+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
 
 ---
 
@@ -31,7 +37,9 @@ LLMs • Agentic AI • MLOps • Distributed Systems
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
+
 
 ## 🌍 Connect With Me
 
@@ -45,7 +53,7 @@ LLMs • Agentic AI • MLOps • Distributed Systems
 
 📫 Reach me at: **gitanshpise@gmail.com**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 
 ## 🚀 Featured Projects
 
@@ -68,7 +76,7 @@ The platform combines temporal deep learning, fleet analytics, independent ML in
 
 🔗 [View Project](https://github.com/Gitansh16/AutoSense)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 
 ### 🔹 Musify  
 ### *Spotify-Inspired React Music Platform*
@@ -89,7 +97,7 @@ Built with React, the platform emphasizes usability, responsive UI design, and s
 
 🔗 [View Project](https://github.com/Gitansh16/Musify)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 
 ### 🔹 ANITA  
 ### *Advanced Novel Integration of a Tiered Aggregator for Credit Card Fraud Detection*
@@ -145,7 +153,7 @@ To be published in:
 - IEEE Xplore Compliant ISBN: `979-8-3315-1211-8`
 - IEEE DVD ISBN: `979-8-3315-1210-1`
 
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 
 
 ## ⚡ Tech Arsenal 
@@ -293,7 +301,7 @@ To be published in:
   </a>
 </p>
 
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 ## 📈 GitHub Analytics
 
 <p align="center">
