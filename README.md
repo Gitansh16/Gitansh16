@@ -76,7 +76,6 @@ The platform combines temporal deep learning, fleet analytics, independent ML in
 
 🔗 [View Project](https://github.com/Gitansh16/AutoSense)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 
 ### 🔹 Musify  
 ### *Spotify-Inspired React Music Platform*
@@ -97,7 +96,6 @@ Built with React, the platform emphasizes usability, responsive UI design, and s
 
 🔗 [View Project](https://github.com/Gitansh16/Musify)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 
 ### 🔹 ANITA  
 ### *Advanced Novel Integration of a Tiered Aggregator for Credit Card Fraud Detection*
@@ -127,9 +125,10 @@ Accuracy • Precision • Recall • F1-Score • ROC-AUC
 
 🔗 [View Research](https://github.com/Gitansh16)
 🔗 [Research Paper](https://link.springer.com/chapter/10.1007/978-981-96-8687-2_27)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
+
 ## 🧠 Research Publications
-
-
 ### 📄 ANITA: Advanced Novel Integration of a Tiered Aggregator for Credit Card Fraud Detection
 
 Research focused on intelligent ensemble learning architectures for improving fraud detection performance on highly imbalanced financial datasets.
@@ -302,6 +301,7 @@ To be published in:
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
+
 ## 📈 GitHub Analytics
 
 <p align="center">
