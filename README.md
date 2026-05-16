@@ -119,7 +119,7 @@ Accuracy • Precision • Recall • F1-Score • ROC-AUC
 
 🔗 [View Research](https://github.com/Gitansh16)
 🔗 [Research Paper](https://link.springer.com/chapter/10.1007/978-981-96-8687-2_27)
-# 🧠 Research Publications
+## 🧠 Research Publications
 
 
 ### 📄 ANITA: Advanced Novel Integration of a Tiered Aggregator for Credit Card Fraud Detection
@@ -145,51 +145,123 @@ To be published in:
 - IEEE Xplore Compliant ISBN: `979-8-3315-1211-8`
 - IEEE DVD ISBN: `979-8-3315-1210-1`
 
-# ⚡ Tech Stack
 
-## 👨‍💻 Languages
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+This gives terminal/research-engineer vibes.
+
+VERY aesthetic.
 
 ---
 
-## 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-black?style=for-the-badge&logo=scikitlearn)
+
+
+
+## ⚡ Tech Stack
+
+### Languages & Frameworks
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  &nbsp;&nbsp;
+  
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" />
+  </a>
+</p>
 
 ---
 
-## ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=for-the-badge&logo=jenkins)
-![Terraform](https://img.shields.io/badge/-Terraform-black?style=for-the-badge&logo=terraform)
+### AI / ML
+
+<p align="left">
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Web Development
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
-![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
+### Cloud & DevOps
+
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kubernetes" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jenkins" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=terraform" />
+  </a>
+</p>
 
 ---
 
-## 🛢️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+### Web & Databases
 
+<p align="left">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flask" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+</p>
 # 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gitansh16&show_icons=true&theme=tokyonight" />
   
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gitansh16&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="left">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitansh16&layout=compact&theme=tokyonight" />
 </p>
