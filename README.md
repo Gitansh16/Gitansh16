@@ -34,8 +34,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 
 
-
 ## 🚀 About Me
+
+<img align="right" alt="Coding" width="260" src="https://s8.ezgif.com/tmp/ezgif-8a952c847f033eb1.gif">
 
 Researcher by curiosity.  
 Engineer by obsession.  
@@ -45,11 +46,11 @@ I like creating systems that learn, adapt, and scale —
 from deep learning models and predictive AI pipelines  
 to cloud-native infrastructure and intelligent automation.
 
-Most days you'll find me somewhere between:
+Most days you'll find me somewhere between:  
 training models, deploying containers, reading papers,  
 breaking things accidentally, and rebuilding them better.
 
-Currently exploring the future of:
+Currently exploring the future of:  
 LLMs • Agentic AI • MLOps • Distributed Systems
 
 
