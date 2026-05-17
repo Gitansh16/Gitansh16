@@ -14,6 +14,72 @@
 
 <br/>
 
+<!-- ======================= TECH GIF SECTION ======================= -->
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100%" />
+</td>
+
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100%" />
+</td>
+
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" />
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+<img src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="100%" />
+</td>
+
+<td align="center" width="50%">
+<img src="https://private-user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" width="100%" />
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+<img src="https://private-user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" width="100%" />
+</td>
+
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%" />
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<!-- =============================================================== -->
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 
 
