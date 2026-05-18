@@ -36,7 +36,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="260" src="https://s8.ezgif.com/tmp/ezgif-8a952c847f033eb1.gif">
+<img align="right" alt="Coding" width="260" src="https://media1.tenor.com/m/9-k5BGypA-oAAAAC/nub-nub-cat.gif">
 
 Researcher by curiosity.  
 Engineer by obsession.  
