@@ -24,7 +24,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://your-portfolio-url.com" target="_blank">
+<a href="https://gitansh.onrender.com" target="_blank">
   <img src="https://img.icons8.com/fluency/96/domain.png" height="48" />
 </a>
 
