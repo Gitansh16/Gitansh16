@@ -12,8 +12,25 @@
 
 </div>
 
-<br/>
+<div align="center">
 
+<a href="mailto:gitanshpise@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/gitanshpise16" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://your-portfolio-url.com" target="_blank">
+  <img src="https://img.icons8.com/fluency/96/domain.png" height="48" />
+</a>
+
+</div>
+
+<br/>
 <!-- ======================= TECH STACK GIF STRIP ======================= -->
 
 <div align="center">
@@ -59,21 +76,7 @@ LLMs • Agentic AI • MLOps • Distributed Systems
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 
 
-## 🌍 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/gitanshpise16" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gitanshpise16" height="30" width="40" />
-</a>
-
-<a href="mailto:gitanshpise@gmail.com" target="blank">
-<img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail" height="35" width="35" /></a>
-
-</p>
-
-📫 Reach me at: **gitanshpise@gmail.com**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 
 ## 🚀 Featured Projects
 
